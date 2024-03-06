@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.globals": [
+        "TimerManager",
+        "UIFormLogic",
+        "LogicScene",
+        "CS",
+        "Event",
+        "LogicSceneManager",
+        "Timer",
+        "typeof"
+    ]
+}
